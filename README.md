@@ -1,2 +1,3 @@
 # hand-gesture-controller
 Hand Gesture Media Controller is a real-time computer vision application built with Python, OpenCV, and MediaPipe. It enables touchless media control through webcam-based hand gesture recognition, allowing users to play/pause music, adjust volume, mute audio, and navigate tracks using simple hand movements.
+A real-time hand gesture recognition system built with Python, OpenCV, and MediaPipe that enables touchless media control through a webcam. Supports gesture-based play/pause, track navigation, volume adjustment, and mute functionality with live visual feedback and accurate hand tracking.
